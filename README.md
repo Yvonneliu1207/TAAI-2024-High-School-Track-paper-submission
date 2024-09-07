@@ -7,7 +7,7 @@ This special session provides a platform for high school students to increase th
 
 List of topics:
 
-        The high school students are encouraged to submit their reports, which are related to Artificial Intelligence or its applications. They are encouraged to submit the reports on the following topics, but are not limited to:
+The high school students are encouraged to submit their reports, which are related to Artificial Intelligence or its applications. They are encouraged to submit the reports on the following topics, but are not limited to:
 
 Data analytics and big data applications
 Artificial Intelligence
