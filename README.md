@@ -9,15 +9,15 @@ List of topics:
 
 The high school students are encouraged to submit their reports, which are related to Artificial Intelligence or its applications. They are encouraged to submit the reports on the following topics, but are not limited to:
 
-Data analytics and big data applications
-Artificial Intelligence
-Machine Learning
-Data Mining
-Applications of Artificial Intelligence
-Intelligent learning systems
-Intelligent monitoring and tutoring systems
-Smart classroom
-Recommendation Systems
-Classification
-Clustering
-Anomaly Detection
+Data analytics and big data applications, 
+Artificial Intelligence, 
+Machine Learning, 
+Data Mining, 
+Applications of Artificial Intelligence, 
+Intelligent learning systems, 
+Intelligent monitoring and tutoring systems, 
+Smart classroom, 
+Recommendation Systems, 
+Classification, 
+Clustering, 
+Anomaly Detection, 
